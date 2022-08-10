@@ -31,13 +31,13 @@
 				<key>bundle-identifier</key>
 				<string>jp.co.vis.mogtas.dev</string>
 				<key>bundle-version</key>
-				<string>1.0.2</string>
+				<string>1.0.3</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>platform-identifier</key>
 				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
-				<string>Runner</string>
+				<string>Soto Runner</string>
 			</dict>
 		</dict>
 	</array>
