@@ -29,15 +29,15 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>jp.co.vis.mogtas.dev</string>
+				<string>org.mogtas.oauth</string>
 				<key>bundle-version</key>
-				<string>1.0.3</string>
+				<string>1.0.5</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>platform-identifier</key>
 				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
-				<string>Soto Runner</string>
+				<string>Runner</string>
 			</dict>
 		</dict>
 	</array>
