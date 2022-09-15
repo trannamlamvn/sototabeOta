@@ -31,13 +31,13 @@
 				<key>bundle-identifier</key>
 				<string>org.mogtas.oauth</string>
 				<key>bundle-version</key>
-				<string>1.0.21</string>
+				<string>1.0.22</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>platform-identifier</key>
 				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
-				<string>Soto Runner</string>
+				<string>Runner</string>
 			</dict>
 		</dict>
 	</array>
